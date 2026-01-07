@@ -1,0 +1,14 @@
+
+.file-uploader {
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color 0.3s;
+  background-color: darkslateblue;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.file-uploader:hover {
+  background-color: slateblue;
+}
